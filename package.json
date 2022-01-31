@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Chupriarti/nodejs-postgreSQL/issues"
   },
-  "homepage": "https://github.com/Chupriarti/nodejs-postgreSQL#readme"
+  "homepage": "https://github.com/Chupriarti/nodejs-postgreSQL#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "pg": "^8.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
